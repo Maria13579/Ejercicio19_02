@@ -34,17 +34,23 @@ h1
 {
    float:left;
    height: 100px;
-   width: 50px;
+   width: 100px;
    border: solid black
 }
 #imagenesladdere
 {
  float: right;
  height: 100px;
- width: 50px;
+ width: 100px;
  border: solid black;
 }
 p{
     font-family: 'Times New Roman';
     text-align: justify;
+}
+#contenido
+{
+ background-color: blanchedalmond;
+ width: 100px;
+ height: 90px;
 }
