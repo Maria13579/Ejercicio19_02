@@ -1,0 +1,50 @@
+#cabecera
+{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+#contenedor 
+{
+    background-color: beige;
+}
+#barradevinc
+{
+    background-color:blanchedalmond;
+    font-family:Times New Roman;
+    text-align: justify;
+}
+h1
+{
+ color:white; 
+ font-family: fantasy;
+ font-size: 50%;
+ text-shadow: 3px 3px 3px thistle;
+ text-align: center;
+}
+
+#pie
+{
+    clear: both;
+    background-color: black;
+    width: 100%;
+    height: 50px;
+}
+#imagenesladoizq
+{
+   float:left;
+   height: 100px;
+   width: 50px;
+   border: solid black
+}
+#imagenesladdere
+{
+ float: right;
+ height: 100px;
+ width: 50px;
+ border: solid black;
+}
+p{
+    font-family: 'Times New Roman';
+    text-align: justify;
+}
