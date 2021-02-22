@@ -28,29 +28,26 @@ h1
     clear: both;
     background-color: black;
     width: 100%;
-    height: 50px;
+    height: 90px;
 }
 #imagenesladoizq
 {
    float:left;
-   height: 100px;
-   width: 100px;
-   border: solid black
 }
 #imagenesladdere
 {
  float: right;
- height: 100px;
- width: 100px;
- border: solid black;
 }
+img{
+    float: right;  
+    float: left;  
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
+
 p{
     font-family: 'Times New Roman';
     text-align: justify;
-}
-#contenido
-{
- background-color: blanchedalmond;
- width: 100px;
- height: 90px;
+    color: white;
 }
