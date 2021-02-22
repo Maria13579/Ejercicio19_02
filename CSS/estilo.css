@@ -33,10 +33,12 @@ h1
 #imagenesladoizq
 {
    float:left;
+   margin: 5px;
 }
 #imagenesladdere
 {
  float: right;
+ margin: 5px;
 }
 img{
     float: right;  
