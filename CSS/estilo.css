@@ -33,19 +33,20 @@ h1
 #imagenesladoizq
 {
    float:left;
-   margin: 5px;
+   margin: 10px;
+ 
 }
 #imagenesladdere
 {
  float: right;
- margin: 5px;
+ margin: 10 px;
 }
 img{
     float: right;  
     float: left;  
-    height: 100px;
-    width: 100px;
-    border: solid black;
+    height: 400px;
+    width: 600px;
+    border: solid beige;
 }
 
 p{
